@@ -8,8 +8,10 @@ Clone the repository into your workspace:
 
 ```bash
 cd ~/turtlebot3_ws/src
-git clone https://github.com/yourusername/key_controls.git
+git clone https://github.com/A-N-M-Noor/key_controls_hold_n_release.git
 ```
+
+Create a workspace (`turtlebot3_ws` for example)
 
 Build the package using colcon:
 
