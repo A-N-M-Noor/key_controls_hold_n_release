@@ -34,6 +34,10 @@ To run the key controls node, use the following command:
 ros2 run key_controls control
 ```
 
+Upload the following code to an Arduino to control a basic four wheeled robot:
+
+[serial_recv](/serial_recv)
+
 To run the serial communication node, use the following command:
 
 ```bash
